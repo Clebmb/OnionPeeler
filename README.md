@@ -1,7 +1,9 @@
+
 # OnionPeeler
 
 A full-stack dashboard for crawling and discovering sites on the Tor network. OnionPeeler allows you to monitor discovery in real-time, manage crawl depth, and build a local database of `.onion` services.
 
+<img width="1920" height="1080" alt="chrome_vWuj8x8VtR" src="https://github.com/user-attachments/assets/34176dac-b88c-4e04-adde-54b3d49daa3b" />
 
 ## Features
 
